@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "Student Task Manager (Web)",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "--web-port",
+                "5000"
+            ]
+        },
+        {
+            "name": "Student Task Manager (Mobile)",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
